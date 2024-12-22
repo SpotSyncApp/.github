@@ -10,7 +10,7 @@ Please use only the official SpotSync branding documentation and logo variants.
 <summary>More details</summary>
 <ul>
     <li>Kindly use the logos only after reading the <code>terms.txt</code> file. Improper use may lead to further actions.</li>
-    <li>Download the official branding assets: [BRANDING](https://spotsync.hu)</li>
+    <li>Download the official branding assets: [Branding](https://github.com)</li>
 </ul>
 </details>
 
@@ -23,7 +23,7 @@ Feel free to reach out if you have any questions!
 ## 📱 Social Media Links
 Follow us on social media to stay up to date with the latest updates, news, and more.
 
-[Instagram](https://instagram.com/SpotSync) | [Twitter](https://twitter.com/SpotSync) | [LinkedIn](https://www.linkedin.com/company/spotsync)
+[Instagram](https://instagram.com/SpotSync) | [Tiktok](https://tiktok.com/@spotsync.hu)
 
 ## GitHub Profile
 You can explore our open-source projects and contributions on our official GitHub profile:  
