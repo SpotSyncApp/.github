@@ -16,6 +16,7 @@ Please use only the official SpotSync branding documentation and logo variants.
 
 ## 🤘 Contact
 Website: [https://spotsync.hu](https://spotsync.hu)  
+Documentation: [https://docs.spotsync.hu](https://docs.spotsync.hu)  
 Email: [contact@spotsync.hu](mailto:contact@spotsync.hu)  
 
 Feel free to reach out if you have any questions!
@@ -24,7 +25,3 @@ Feel free to reach out if you have any questions!
 Follow us on social media to stay up to date with the latest updates, news, and more.
 
 [Instagram](https://instagram.com/SpotSync) | [Tiktok](https://tiktok.com/@spotsync.hu)
-
-## GitHub Profile
-You can explore our open-source projects and contributions on our official GitHub profile:  
-[SpotSync GitHub](https://github.com/SpotSync)  
