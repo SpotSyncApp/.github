@@ -1,5 +1,5 @@
 
-# SpotSync × CodeWave
+# SpotSync × Jupitr
 
 Your friends are always just one click away, anywhere in the 🌍!
 
@@ -18,6 +18,7 @@ Please use only the official SpotSync branding documentation and logo variants.
 Website: [https://spotsync.hu](https://spotsync.hu)  
 Documentation: [https://docs.spotsync.hu](https://docs.spotsync.hu)  
 Email: [contact@spotsync.hu](mailto:contact@spotsync.hu)  
+Jupitr: [https://jupitr.hu](https://jupitr.hu)
 
 Feel free to reach out if you have any questions!
 
